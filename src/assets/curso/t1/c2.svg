@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101.975" height="101.975" viewBox="0 0 101.975 101.975">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.076" cy="0.019" r="1.465" gradientTransform="translate(0.001)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6f6f7"/>
+      <stop offset="0.477" stop-color="#f9f9fa"/>
+      <stop offset="0.715" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_129336" data-name="Grupo 129336" transform="translate(-1250.061 -1461.436)">
+    <g id="Grupo_117558" data-name="Grupo 117558" transform="translate(1250.061 1461.436)">
+      <g id="Grupo_18423" data-name="Grupo 18423" transform="translate(0 0)">
+        <g id="Grupo_18421" data-name="Grupo 18421">
+          <g id="Grupo_18420" data-name="Grupo 18420">
+            <g id="Grupo_18419" data-name="Grupo 18419">
+              <path id="Trazado_40936" data-name="Trazado 40936" d="M296.6,2196.707a50.987,50.987,0,1,1-50.987-50.986A50.986,50.986,0,0,1,296.6,2196.707Z" transform="translate(-194.623 -2145.721)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Trazado_40937" data-name="Trazado 40937" d="M296.149,2196.218a50.986,50.986,0,1,0-50.987,50.988A50.787,50.787,0,0,0,296.149,2196.218Z" transform="translate(-194.174 -2145.232)" fill="url(#radial-gradient)"/>
+        <path id="Trazado_40938" data-name="Trazado 40938" d="M280.132,2192.289a38.918,38.918,0,1,0-38.918,38.918A38.772,38.772,0,0,0,280.132,2192.289Z" transform="translate(-190.071 -2141.133)" fill="none" stroke="#1d272b" stroke-miterlimit="10" stroke-width="4"/>
+        <g id="Grupo_18422" data-name="Grupo 18422" transform="translate(9.033 28.626)">
+          <path id="Trazado_40939" data-name="Trazado 40939" d="M288.331,2164.488a50.994,50.994,0,0,1-87.786,50.776,50.832,50.832,0,0,0,87.786-50.776Z" transform="translate(-200.545 -2164.488)" fill="#eceef0"/>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_166441" data-name="Trazado 166441" d="M21.961,0H1.982V-3.964l9.429-10.05a23.262,23.262,0,0,0,2.873-3.7,5.95,5.95,0,0,0,.931-3,4.452,4.452,0,0,0-.981-3.053,3.541,3.541,0,0,0-2.8-1.111,3.819,3.819,0,0,0-3.093,1.351,5.353,5.353,0,0,0-1.131,3.553H1.4a9.556,9.556,0,0,1,1.271-4.865A8.96,8.96,0,0,1,6.266-28.3a10.922,10.922,0,0,1,5.265-1.251,10.342,10.342,0,0,1,7,2.162,7.649,7.649,0,0,1,2.492,6.106,9.8,9.8,0,0,1-1.121,4.4,24.475,24.475,0,0,1-3.844,5.225L9.429-4.665H21.961Z" transform="translate(1290.9 1526.436)" fill="#008f85"/>
+  </g>
+</svg>
