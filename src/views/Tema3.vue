@@ -12,7 +12,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p.mb-0 Luego de las acomodaciones del cadáver necesarias para el segundo momento de la tanatoestética, se inicia con la recreación de una imagen y apariencia natural del fallecido que recordarán quienes asistan a su ritual. Es importante que se recuerde que las técnicas cosméticas que aplicará deben siempre estar orientadas a encontrar una naturalidad de la piel y las partes del cadáver que estarán visibles en el servicio funerario. Se puede apoyar en ocasiones de una fotografía de la persona fallecida, especialmente en los casos de reconstrucción. A continuación, se describen algunos tratamientos que se deben considerar en la aplicación cosmética funeraria. Veámosla.
+            p.mb-0 Luego de las acomodaciones del cadáver necesarias para el <b>segundo momento de la <span class="cp">tanatoestética</span></b>, se inicia con la <b>recreación de una imagen y apariencia natural del fallecido que recordarán quienes asistan a su ritual. <span class="cp">Es importante</span></b> que se recuerde que <b>las técnicas cosméticas que aplicará deben siempre estar orientadas a encontrar una naturalidad de la piel y las partes del cadáver que estarán visibles en el servicio funerario.</b> <em>Se puede apoyar en ocasiones de una fotografía de la persona fallecida, especialmente en los casos de reconstrucción</em>. A continuación, se describen algunos <b><span class="cp">tratamientos que se deben considerar en la aplicación cosmética funeraria. </span></b>Veámosla.
         .col-lg-4.mb-4.mb-lg-0
           figure
             img(src='@/assets/curso/t3/f1.svg' alt='Utensilios cosméticos')
@@ -26,16 +26,16 @@
         figure
           img(src='@/assets/curso/if1.svg' alt='Símbolo de atención').w85px
       .col-lg-7
-        p.bordeLnegro.mb-0 Verificadas las acciones que inciden en la aplicación de los productos cosméticos, especialmente el uso de la cera. Se debe recordar que esta debe endurecerse de nuevo y retomar la consistencia original. No se recomienda usar otras fuentes de calor como el fuego.
+        p.bordeLnegro.mb-0 <b><span class="cp">Verificadas las acciones</span></b> que inciden en la <b>aplicación de los productos cosméticos, especialmente el uso de la cera</b>. Se debe recordar que esta <b>debe endurecerse de nuevo</b> y retomar la consistencia original. <b><span class="cp">No se recomienda usar otras fuentes de calor como el fuego.</span></b>
 
-    p.mb-5 Existen cosméticos especializados para el tratamiento estético de los fallecidos que permiten mayor fijación y durabilidad, sin embargo, los cosméticos de uso comercial también tienen muy buen efecto estético.  Dentro de los productos que se usan para la estética del cuerpo sin vida encontramos bases, correctores, polvos para las diferentes tonalidades de piel, rubores que resalten tonalidades, labiales, entre otros.   
+    p.mb-5 Existen <b><span class="cp">cosméticos especializados</span> para el tratamiento estético de los fallecidos que permiten mayor fijación y durabilidad,</b> sin embargo, <b>los cosméticos de uso comercial también tienen muy buen efecto estético.</b> Dentro de <b>los productos que se usan para la estética del cuerpo sin vida</b> encontramos bases, correctores, polvos para las diferentes tonalidades de piel, rubores que resalten tonalidades, labiales, entre otros.   
 
     .row.align-items-center.mb-5
       .col-lg-5
         figure
           img(src='@/assets/curso/t3/f2.png' alt='Aplicación de cosméticos')
       .col-lg-7
-        p La aplicación de cosméticos se puede realizar con los dedos, con los pinceles o esponjas que normalmente se usan para aplicar dichos productos cosméticos. Si en algún momento del maquillaje no queda con los resultados esperados, se pueden retirar usando algodones con disolvente cosmético, cremas humectantes de forma suave para no erosionar o dañar la piel.
+        p La <b><span clas="cp">aplicación de cosméticos</span></b> <em>se puede realizar con los dedos, con los pinceles o esponjas que normalmente se usan para aplicar dichos productos cosméticos. Si en algún momento del maquillaje no queda con los resultados esperados</em>, <b>se pueden retirar usando algodones con disolvente cosmético, cremas humectantes de forma suave para no erosionar o dañar la piel.</b>
         .cajon.color-secundario.p-4
           p.mb-0 Con respecto al arreglo de las uñas se recomienda que sea muy natural, en la situación que lleguen las uñas de las manos con un esmalte maltratado o dañado usted puede organizarlas, en primer lugar, retirando el esmalte con removedor y finalmente aplicar esmalte transparente o un esmalte sugerido en la orden de servicio. Es importante mencionar que el maquillaje tal como sombras, pestañina o colores fuertes debe ser solicitado expresamente por la familia. Como tanatopractor debe limitarse a recrear un aspecto natural del cuerpo fallecido. 
 
