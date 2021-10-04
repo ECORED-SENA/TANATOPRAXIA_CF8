@@ -13,7 +13,7 @@
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p.mb-0 Luego de las acomodaciones del cadáver necesarias para el <b>segundo momento de la <span class="cp">tanatoestética</span></b>, se inicia con la <b>recreación de una imagen y apariencia natural del fallecido que recordarán quienes asistan a su ritual. <span class="cp">Es importante</span></b> que se recuerde que <b>las técnicas cosméticas que aplicará deben siempre estar orientadas a encontrar una naturalidad de la piel y las partes del cadáver que estarán visibles en el servicio funerario.</b> <em>Se puede apoyar en ocasiones de una fotografía de la persona fallecida, especialmente en los casos de reconstrucción</em>. A continuación, se describen algunos <b><span class="cp">tratamientos que se deben considerar en la aplicación cosmética funeraria. </span></b>Veámosla.
-        .col-lg-4.mb-4.mb-lg-0
+        .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
           figure
             img(src='@/assets/curso/t3/f1.svg' alt='Utensilios cosméticos')
 
@@ -22,7 +22,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.align-items-center.t3BG1.afterCP1.p-5.mb-5
-      .col-lg-1.mx-5
+      .col-lg-1.mx-5(data-aos="fade-right")
         figure
           img(src='@/assets/curso/if1.svg' alt='Símbolo de atención').w85px
       .col-lg-7
@@ -31,7 +31,7 @@
     p.mb-5 Existen <b><span class="cp">cosméticos especializados</span> para el tratamiento estético de los fallecidos que permiten mayor fijación y durabilidad,</b> sin embargo, <b>los cosméticos de uso comercial también tienen muy buen efecto estético.</b> Dentro de <b>los productos que se usan para la estética del cuerpo sin vida</b> encontramos bases, correctores, polvos para las diferentes tonalidades de piel, rubores que resalten tonalidades, labiales, entre otros.   
 
     .row.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5(data-aos="fade-right")
         figure
           img(src='@/assets/curso/t3/f2.png' alt='Aplicación de cosméticos')
       .col-lg-7
@@ -51,7 +51,7 @@
           img(src='@/assets/curso/t3/f3.svg' alt='Características morfológicas')
 
     .row.justify-content-center.mb-5
-      .col-auto.mb-4.px-2
+      .col-auto.mb-4.px-2(data-aos="flip-left")
         .tarjeta.tarjeta-container2.tarjeta-oscura
           .tarjetaContent2
             .tarjetaImg2
@@ -65,7 +65,7 @@
                 .bg-num1
                   h4 Piel amarilla
                   p.mb-0 Por patologías como la ictericia reacciona con el formaldehido (químico preservante) creando una apariencia verde en el cuerpo. En el procedimiento estético debe ser tratada con maquillaje en tonalidades moradas.
-      .col-auto.mb-4.px-2
+      .col-auto.mb-4.px-2(data-aos="flip-left")
         .tarjeta.tarjeta-container2.tarjeta-verde
           .tarjetaContent2
             .tarjetaImg2
@@ -79,7 +79,7 @@
                 .bg-num2
                   h4 Piel rojiza
                   p.mb-0 Producto de vasos dilatados, intoxicados, sangre descompuesta en capilares, debe ser tratada con maquillaje en tonalidades amarillas o moradas. 
-      .col-auto.mb-4.px-2
+      .col-auto.mb-4.px-2(data-aos="flip-left")
         .tarjeta.tarjeta-container2.tarjeta-oscura
           .tarjetaContent2
             .tarjetaImg2
@@ -93,7 +93,7 @@
                 .bg-num3
                   h4 La piel verdosa (descomposición)
                   p.mb-0 Debe ser tratada con maquillaje en tonalidades moradas y amarillas. 
-      .col-auto.mb-4.px-2
+      .col-auto.mb-4.px-2(data-aos="flip-left")
         .tarjeta.tarjeta-container2.tarjeta-verde
           .tarjetaContent2
             .tarjetaImg2
@@ -107,7 +107,7 @@
                 .bg-num4
                   h4 La piel morada o con manchas (morados, hematomas)
                   p.mb-0 Debe ser tratada con maquillaje en tonalidades amarillas.
-      .col-auto.mb-4.px-2
+      .col-auto.mb-4.px-2(data-aos="flip-left")
         .tarjeta.tarjeta-container2.tarjeta-oscura
           .tarjetaContent2
             .tarjetaImg2

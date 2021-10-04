@@ -9,7 +9,7 @@
       h1 Tanatoestética
 
     .row.align-items-center.px-5.mb-5
-      .col-lg-5
+      .col-lg-5(data-aos="fade-right")
         figure
           img(src='@/assets/curso/t1/f1.svg' alt='Tanatopraxia y tanatoestética').my-4
       .col-lg-7
@@ -23,7 +23,7 @@
           p.mb-0 Es decir que <b><span class="cp">la tanatoestética</span></b> como su nombre lo dice <b>son los procedimientos que realizan al cadáver para que estéticamente se vea con un aspecto natural.</b>
 
     .row.align-items-center.t1BG1.afterCP1.p-5.mb-5
-      .col-lg-1
+      .col-lg-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/if1.svg' alt='Símbolo de atención').w85px
       .col-lg-6
@@ -37,7 +37,7 @@
     .col-lg-11.mx-auto
       PasosA.color-primario.mb-5(tipo="n")
         .row.align-items-center.justify-content-center
-          .col-lg-2
+          .col-lg-2(data-aos="flip-right")
             figure.mw115px.mx-auto
               img(src='@/assets/curso/t1/f2.svg' alt='Icono faraón')
           .col-lg-10
@@ -47,11 +47,11 @@
           .col-lg-10
             h3(align='left') En Europa
             p(align='left') La tanatoestética es un concepto relativamente nuevo, más o menos en los años 1900, un italiano embalsamador en Europa realizó preparaciones estéticas de un exministro. Este organizó su rostro, puso ojos de vidrio, rellenó de parafina donde faltaba volumen, implantó cabello y barba.  Antes de esta fecha solo mencionan que el cuerpo se ponía dentro de una urna herméticamente sellada que ocultaba completamente el fallecido a la vista de todas las personas.
-          .col-lg-2
+          .col-lg-2(data-aos="flip-right")
             figure.mw115px.mx-auto
               img(src='@/assets/curso/t1/f3.svg' alt='Icono faraón')
         .row.align-items-center.justify-content-center
-          .col-lg-2
+          .col-lg-2(data-aos="flip-right")
             figure.mw115px.mx-auto
               img(src='@/assets/curso/t1/f4.svg' alt='Icono faraón')
           .col-lg-10
@@ -61,11 +61,11 @@
           .col-lg-10
             h3(align='left') En New York
             p(align='left') En la historia se ha reconocido a Joel E. Crandall, de Nueva York, por ser el primer embalsamador en escribir en 1912 un artículo sobre el cuidado cosmético postmortem. Este autor mencionó sobre la semicirugía al explicarle como la generación y la creación de miembros de fallecidos destrozados una descomposición, enfermedad o traumatismos. Su finalidad era presentarlos con una imagen natural. Crandall solicitaba para esta actividad una fotografía reciente de la persona fallecida, fijación de los tejidos del cadáver e implantes. Estos requerimientos se mantienen en la tanatoestética actual.
-          .col-lg-2
+          .col-lg-2(data-aos="flip-right")
             figure.mw115px.mx-auto
               img(src='@/assets/curso/t1/f5.svg' alt='Icono faraón')
         .row.align-items-center.justify-content-center
-          .col-lg-2
+          .col-lg-2(data-aos="flip-right")
             figure.mw115px.mx-auto
               img(src='@/assets/curso/t1/f6.svg' alt='Icono faraón')
           .col-lg-10
@@ -75,12 +75,12 @@
           .col-lg-10
             h3(align='left') En la actualidad
             p(align='left') En la actualidad, la tanatoestética ha sido incididas por prácticas artísticas tales como el manejo de ceras y técnicas de maquillaje. Cabe mencionar, que la tanatoestética no sólo se limita a los procedimientos que se realizan en el rostro, cuello y manos. Esta abarca reconstrucciones dérmicas, de miembros o estructuras óseas. Es decir, una tanatoestética mixta.
-          .col-lg-2
+          .col-lg-2(data-aos="flip-right")
             figure.mw115px.mx-auto
               img(src='@/assets/curso/t1/f7.svg' alt='Icono faraón')
 
     .tarjeta-avatar-b.mb-4
-      .tarjeta-avatar-b__img
+      .tarjeta-avatar-b__img(data-aos="fade-right")
         img.mx-auto(src='@/assets/curso/t1/f8.svg' alt='AvatarTop' style='width:155px;')
       .tarjeta.tarjeta-white--color-red
         .p-4.ps-0.py-5

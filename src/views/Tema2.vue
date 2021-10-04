@@ -13,27 +13,27 @@
       .col-lg-7
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Cualquiera de las posiciones anteriores, <b>es recomendable realizar un masaje que rompa la rigidez cadavérica y poner los hombros en lo posible lineales.</b> Cabe mencionar que <b>cuando un cuerpo ha estado en la misma posición por enfermedad se debe respetar las estructuras anatómicas y no forzar la acomodación.</b> Es posible que la cabeza se debe posicionar con la ayuda de un cabecero. <b><span class="cp">Todas estas acciones deben ser comunicadas al tomador del servicio funerario.</span></b>
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         img(src='@/assets/curso/t2/f1.png' alt='Recomendable realizar un masaje que rompa la rigidez cadavérica')
 
     p <b>En el ejercicio de la preparación del cuerpo fallecido antes de una intervención cosmética</b>, la comprensión de los requerimientos dados en el orden del servicio funerario u orientaciones del responsable del sepelio son fundamentales para determinar la imagen final o presentación del cuerpo fallecido, si bien existe estas solicitudes <b>los <span class="cp">tanatopractores</span> deben mantener una comunicación con los solicitantes del servicio porque en ocasiones la intervención estética no se puede desarrollar por condiciones dadas por una descomposición del cuerpo fallecido.</b> 
 
     .row.align-items-center.mb-4.t2BG2
-      .col-lg-5
+      .col-lg-5(data-aos="fade-right")
         img(src='@/assets/curso/t2/f2.png' alt='Preparación y acondicionamiento del cuerpo').my-4
       .col-lg-7
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 <b>La preparación y acondicionamiento del cuerpo</b> <em>debe realizarse desde el momento mismo en que se inicia el embalsamamiento</em> <b>porque se deben tener claras las condiciones externas del rostro y optar por un estilo natural y conservador siempre y cuando las condiciones del cuerpo así lo permitan. <span class="cp">Existen restauraciones menores de acondicionamiento estético</span></b>; <em>pero existen restauraciones mayores cuando se trata de</em> <b>procesos de la enfermedad como tumores, edema, pérdida de tejidos</b>; <em>por procesos naturales de descomposición como decoloraciones, gases en el tejido, heridas, golpes o fracturas.</em>
 
     .row.align-items-center.t2BG1.afterCP1.p-5.mb-5
-      .col-lg-1
+      .col-lg-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/if1.svg' alt='Símbolo de atención').w85px
       .col-lg-7
         p.bordeLnegro.mb-0 Considerando la información anterior y con la intención de presentar <b>acciones a ejecutar el tanatopractor para lograr el primer paso de la <span class="cp">tanatoestética</span></b>, relacionada con la <b>adecuación de la posición del cadáver y las facciones del rostro</b>, se invita a revisar el siguiente recurso educativo.
 
     .row.mb-5.justify-content-center
-      .col-lg-4
+      .col-lg-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/t2/f3.svg' alt='Adecuación de la posición del cadáver')
       .col-lg-7
@@ -106,23 +106,23 @@
 
     .row.justify-content-center.mb-5
       .col-lg-2.bs30.px-4.h200px.bb.bb--cp
-        figure
+        figure(data-aos="flip-down")
           img(src='@/assets/curso/t2/c1.svg' alt='1').w85px.mx-auto.my-2
         p.text-center.text-small Lavar y desinfectar los tejidos, organizar en vello facial de ser necesario.
       .col-lg-2.bs30.px-4.h200px.bb.bb--cac.flechitaBefore
-        figure
+        figure(data-aos="flip-down")
           img(src='@/assets/curso/t2/c2.svg' alt='2').w85px.mx-auto.my-2
         p.text-center.text-small Aplicar producto humectante en el proceso de preservación química.
       .col-lg-2.bs30.px-4.h200px.bb.bb--cp.flechitaBefore
-        figure
+        figure(data-aos="flip-down")
           img(src='@/assets/curso/t2/c3.svg' alt='3').w85px.mx-auto.my-2
         p.text-center.text-small Aplicar polvo y productos cosméticos de tonalidades cálidas.
       .col-lg-2.bs30.px-4.h200px.bb.bb--cac.flechitaBefore
-        figure
+        figure(data-aos="flip-down")
           img(src='@/assets/curso/t2/c4.svg' alt='4').w85px.mx-auto.my-2
         p.text-center.text-small Aplicar producto para labios: labial, vaselina, brillo.
       .col-lg-2.bs30.px-4.h200px.bb.bb--cp.flechitaBefore
-        figure
+        figure(data-aos="flip-down")
           img(src='@/assets/curso/t2/c5.svg' alt='5').w85px.mx-auto.my-2
         p.text-center.text-small Limpiar pestañas, cejas, vello facial y línea de cabello para retirar exceso de maquillaje.
 
@@ -132,10 +132,10 @@
           .bloque-texto-a__texto.p-4
             p.mb-0 <b><span class="cp">Los tratamientos de tanatoestética</span></b> <em>se deben evaluar y revisar después de desinfección y preservación química</em>. <b>Es <span class="cp">importante</span> recordar que se debe dar un tiempo prudente para verificar la fijación de tejidos, la piel y las facciones del rostro</b>, en caso de que las zonas del rostro están hinchadas puedan reducirse y drenar el líquido o simplemente dar tiempo al cuerpo de reaccionar a los tratamientos en caso tal que se deba realizar algún proceso adicional. En este sentido, a continuación, se caracterizan algunas <b>consideraciones especiales que se deben tener cuando existen alteraciones físicas o químicas anormales de un cuerpo fallecido que difieren de la imagen natural y presentación externa.</b> Es importante revisar el siguiente recurso educativo.
         .col-lg-4.mb-4.mb-lg-0
-          figure
+          figure(data-aos="fade-left")
             img(src='@/assets/curso/t2/f10.svg' alt='Mujer en laboratorio de tanatopraxia')
 
-    .col-lg-10.mx-auto.mb-5
+    .col-lg-10.mx-auto.mb-5(data-aos="flip-right")
       LineaTiempoD.color-primario
         .row(numero="1" titulo="Cuerpo demacrado ")
           .col-lg-5
@@ -245,7 +245,7 @@
             .lista-ol--cuadro__vineta.fcp
               span 9
             p.mb-0 Sellar maquillaje con una fina aplicación de laca.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/t2/f21.svg' alt='Aplicación de cosméticos')
 
