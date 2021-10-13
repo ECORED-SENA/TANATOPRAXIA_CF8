@@ -43,13 +43,13 @@
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img.mx-auto(src='@/assets/curso/t2/f4.svg' alt='icono relacionado' style='width:125px;')
-              .tarjeta.tarjeta-white
+              .tarjeta.tarjeta-white--color-yellow
                 .p-4.ps-0
                   p.mb-3 Humecte y cierre los ojos de modo tal que el párpado superior cubra 2/3 del ojo.
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img.mx-auto(src='@/assets/curso/t2/f5.svg' alt='icono relacionado' style='width:125px;')
-              .tarjeta.tarjeta-white
+              .tarjeta.tarjeta-white--color-red
                 .p-4.ps-0
                   p.mb-3 Lavar con abundante agua las cavidades nasales y bucales para remover cualquier líquido que obstruya una apariencia natural del cuerpo.
             .tarjeta-avatar-b.mb-4
@@ -78,17 +78,17 @@
                       | Uso de vaselina. 
                   p Después de la preservación los tejidos están fijados, revise nuevamente la humedad de las cavidades, retire algodones húmedos, realice el respectivo taponamiento y acomode de nuevo las facciones.
           .p-4(numero="2" titulo="Lavado del cuerpo")
-            p Como es de nuestro conocimiento en el primer paso del embalsamamiento se realiza la desinfección del cadáver; y dentro de este ejercicio lavar y limpiar facilita que una buena eficacia de la preservación química y efectividad de los productos estéticos en el fallecido. Tenga presenta estas observaciones:
+            p Como es de nuestro conocimiento en el primer paso del embalsamamiento se realiza la desinfección del cadáver; y dentro de este ejercicio lavar y limpiar facilita una buena eficacia de la preservación química y efectividad de los productos estéticos en el fallecido. Tenga presente estas observaciones:
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img.mx-auto(src='@/assets/curso/t2/f7.svg' alt='icono relacionado' style='width:125px;')
-              .tarjeta.tarjeta-white
+              .tarjeta.tarjeta-white--color-yellow
                 .p-4.ps-0
                   p.mb-3 Verificar la depilación o afeitada del rostro del fallecido. Utilice productos como crema de afeitar y una cuchilla que se deslice fácilmente en el sentido del crecimiento del vello.
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
                 img.mx-auto(src='@/assets/curso/t2/f8.svg' alt='icono relacionado' style='width:125px;')
-              .tarjeta.tarjeta-white
+              .tarjeta.tarjeta-white--color-red
                 .p-4.ps-0
                   p.mb-3 Humectar la piel del rostro del cadáver  para prepararla  para la aplicación cosmética.
             .tarjeta-avatar-b.mb-4
@@ -102,7 +102,7 @@
           .p-4(numero="3" titulo="Tintes arteriales")
             p Estos productos son colorantes que se aplican a los químicos preservantes para que desde el proceso de inyección arterial el cutis quede con la tonalidad deseada y de forma uniforme. Se recomienda el uso de tintes de coloración cálidos (rojizo) para quitar el color pálido o enfermizo por la remoción sanguínea mediante el drenaje.
 
-    p.mb-5 Sumado a lo anterior, se debe recordar que la para la aplicación de cosméticos en un cuerpo que no necesite restauración se pueden seguir las siguientes instrucciones:
+    p.mb-5 Sumado a lo anterior, se debe recordar que la para <b>la <span class="cp">aplicación de cosméticos en un cuerpo</span> que no necesite restauración se pueden seguir las siguientes instrucciones</b>:
 
     .row.justify-content-center.mb-5
       .col-lg-2.bs30.px-4.h200px.bb.bb--cp
@@ -135,7 +135,7 @@
           figure(data-aos="fade-left")
             img(src='@/assets/curso/t2/f10.svg' alt='Mujer en laboratorio de tanatopraxia')
 
-    .col-lg-10.mx-auto.mb-5(data-aos="flip-right")
+    .col-lg-10.mx-auto.mb-5
       LineaTiempoD.color-primario
         .row(numero="1" titulo="Cuerpo demacrado ")
           .col-lg-5
@@ -148,7 +148,7 @@
           .tarjeta-avatar-b.mb-4
             .tarjeta-avatar-b__img
               img.mx-auto(src='@/assets/curso/t2/f12.svg' alt='icono relacionado' style='width:125px;')
-            .tarjeta.tarjeta-white
+            .tarjeta.tarjeta-white--color-red
               .p-4.ps-0
                 h3 Decoloraciones por lesiones
                 p.mb-3 Controlar con soluciones preservantes concentradas que ayudan a deshidratar los tejidos.  Cuando se inflama debido a la inyección arterial se debe generar una presión externa o elevar rostro para que los líquidos bajen por gravedad.
@@ -197,12 +197,12 @@
         div(numero="6" titulo="Posicionamiento en el cofre")
           .row.align-items-center
             .col-lg-8
-              p El posicionamiento es una condición especial, que debe comprenderse por parte de tanatopractor porque incide las creencias del fallecido, cuidado de los procedimientos estéticos y adecuación de las partes visibles del cadáver según las condiciones de muerte. Recuerde que si existe una malformación en el fallecido debe utilizar elementos que permitan que el rostro siga siendo visible.
+              p El posicionamiento es una condición especial, que debe comprenderse por parte del tanatopractor porque incide las creencias del fallecido, cuidado de los procedimientos estéticos y adecuación de las partes visibles del cadáver según las condiciones de muerte. Recuerde que si existe una malformación en el fallecido debe utilizar elementos que permitan que el rostro siga siendo visible.
             .col-lg-4
               figure
                 img(src='@/assets/curso/t2/f20.png' alt='Imagen relacionada')
 
-    p.mb-5 En conclusión, la aplicación de los cosméticos en un cuerpo que necesite restauración puede seguir las siguientes recomendaciones:
+    p.mb-5 <b><span class="cp">En conclusión,</span> la aplicación de los cosméticos en un cuerpo que necesite restauración</b> puede seguir las siguientes recomendaciones:
 
 
 

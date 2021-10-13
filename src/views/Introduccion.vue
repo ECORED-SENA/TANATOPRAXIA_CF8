@@ -23,7 +23,7 @@
       .col-lg-7
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 <b><span class="cp">La estética de un cuerpo sin vida</span></b> es una sensación planeada para el ritual final de este. <b>A veces quienes asisten a esta ceremonia fijan su mirada en los detalles de los aspectos físicos del fallecido, y esta acción será una imagen que quedará en la memoria de los deudos.</b>
-        p En el presente <b>componente de formación se ha estructurado</b> en torno a <b>temáticas como  la estética de un cuerpo fallecido, las adecuaciones del cuerpo para la <span class="cp">tanatoestética y la cosmetología funeraria.</span></b>  Cabe mencionar que <b>la estética del fallecido se realiza a partir de técnicas de maquillaje</b> en las que se busca la <b><span class="cp">naturalidad del del fallecido</span></b>, asemejándose a sus naturales y su tipo de pie. En ocasiones, <b>las técnicas de estética contribuyen a enmendar daños visibles en el rostro causados por una enfermedad, accidentes o traumatismo, entre otros.</b>
+        p En el presente <b>componente de formación se ha estructurado</b> en torno a <b>temáticas como  la estética de un cuerpo fallecido, las adecuaciones del cuerpo para la <span class="cp">tanatoestética y la cosmetología funeraria.</span></b>  Cabe mencionar que <b>la estética del fallecido se realiza a partir de técnicas de maquillaje</b> en las que se busca la <b><span class="cp">naturalidad del fallecido</span></b>, asemejándose a sus naturales y su tipo de piel. En ocasiones, <b>las técnicas de estética contribuyen a enmendar daños visibles en el rostro causados por una enfermedad, accidentes o traumatismo, entre otros.</b>
 
       .col-lg-5(data-aos="fade-left")
         figure
@@ -37,7 +37,7 @@
       .col-lg-7
         p Cuando se realiza el <b>traslado inicial, en el que se recoge el fallecido, es importante escuchar los requerimientos  de la familia</b> o solicitantes del servicio funerario para que usted <b><span class="cp">proceda con los lineamientos estéticos,</span> la ropa o pertenencias que entregan.</b>
         .cajon.color-secundario.p-4
-          p.mb-0 Con lo mencionado hasta aquí, <b><span class="cp">le damos la bienvenida a esta ambiente de aprendizaje</span></b> que lo llevará a conectar su experiencia con información y interacciones diseñadas desde videos, lecturas, interacciones con sus compañeros a través de la tecnología. Bienvenido.
+          p.mb-0 Con lo mencionado hasta aquí, <b><span class="cp">le damos la bienvenida a este ambiente de aprendizaje</span></b> que lo llevará a conectar su experiencia con información e interacciones diseñadas desde videos, lecturas, interacciones con sus compañeros a través de la tecnología. Bienvenido.
 
 </template>
 

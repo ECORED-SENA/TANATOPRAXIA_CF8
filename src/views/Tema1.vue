@@ -70,7 +70,7 @@
               img(src='@/assets/curso/t1/f6.svg' alt='Icono faraón')
           .col-lg-10
             h3(align='left') Exponentes
-            p(align='left') Otros antecedentes para destacar sobre la tanatoestética son las sistematizaciones del Dr. Sheridan Mayer redactas por Robert G. Mayer y Edward C. Johnson. Ellos exponen procesos relacionados la antropometría, la anatomía, la teoría del color, la ortopedia, las técnicas de moldeado artístico y demás temáticas al campo mortuorio. Exponentes actuales como el Dr. Vernie Fountain usan sus métodos.
+            p(align='left') Otros antecedentes para destacar sobre la tanatoestética son las sistematizaciones del Dr. Sheridan Mayer redactadas por Robert G. Mayer y Edward C. Johnson. Ellos exponen procesos relacionados la antropometría, la anatomía, la teoría del color, la ortopedia, las técnicas de moldeado artístico y demás temáticas al campo mortuorio. Exponentes actuales como el Dr. Vernie Fountain usan sus métodos.
         .row.align-items-center.justify-content-center
           .col-lg-10
             h3(align='left') En la actualidad
