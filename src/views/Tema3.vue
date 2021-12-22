@@ -39,7 +39,7 @@
         .cajon.color-secundario.p-4
           p.mb-0 Con respecto al arreglo de las uñas se recomienda que sea muy natural, en la situación que lleguen las uñas de las manos con un esmalte maltratado o dañado usted puede organizarlas, en primer lugar, retirando el esmalte con removedor y finalmente aplicar esmalte transparente o un esmalte sugerido en la orden de servicio. <b><span class="cp">Es importante mencionar</span> que el maquillaje tal como sombras, pestañina o colores fuertes debe ser solicitado expresamente por la familia.</b> Como <b><span class="cp">tanatopractor</span> debe limitarse a recrear un aspecto natural del cuerpo fallecido</b>. 
 
-    p En el contexto de la <b><span class="cp">tanatoestética</span></b> la comprensión de <b>las teorías del color es importante cuando el tanatopractor se enfrenta a tipologías de muerte del cadáver.</b> Según la muerte <b>las tonalidades de la piel cambian y allí es necesario reconocer las combinaciones o mezclas de colores que se pueden hacer para mejorar el estado de la piel.</b> <b><span class="cp">Las diferentes técnicas</span></b> que se pueden hacer con <b>la mezcla de colores se basan en el círculo cromático que da una referencia a las tonalidades y escalas de colores partiendo de los colores primarios, los secundarios y terciarios. <span class="cp">Con base a esta combinación de colores</span> existe la complementariedad de los colores, es decir, colores que se contrastan o que son opuestos en el circulo cromático, por ejemplo, el rojo y el verde, el azul y el naranjado, el amarillo y el morado.</b>
+    p En el contexto de la <b><span class="cp">tanatoestética</span></b> la comprensión de <b>las teorías del color es importante cuando el tanatopractor se enfrenta a tipologías de muerte del cadáver.</b> Según la muerte <b>las tonalidades de la piel cambian y allí es necesario reconocer las combinaciones o mezclas de colores que se pueden hacer para mejorar el estado de la piel.</b> <b><span class="cp">Las diferentes técnicas</span></b> que se pueden hacer con <b>la mezcla de colores se basan en el círculo cromático que da una referencia a las tonalidades y escalas de colores partiendo de los colores primarios, los secundarios y terciarios. <span class="cp">Con base a esta combinación de colores</span> existe la complementariedad de los colores, es decir, colores que se contrastan o que son opuestos en el círculo cromático, por ejemplo, el rojo y el verde, el azul y el naranjado, el amarillo y el morado.</b>
     
     .row.align-items-center.mb-5 
       .col-lg-7
@@ -64,7 +64,7 @@
               .px-3
                 .bg-num1
                   h4 Piel amarilla
-                  p.mb-0 Por patologías como la ictericia, reacciona con el formaldehido (químico preservante) creando una apariencia verde en el cuerpo. En el procedimiento estético debe ser tratada con maquillaje en tonalidades moradas.
+                  p.mb-0 Por patologías como la ictericia, reacciona con el formaldehído (químico preservante) creando una apariencia verde en el cuerpo. En el procedimiento estético debe ser tratada con maquillaje en tonalidades moradas.
       .col-auto.mb-4.px-2(data-aos="flip-left")
         .tarjeta.tarjeta-container2.tarjeta-verde
           .tarjetaContent2

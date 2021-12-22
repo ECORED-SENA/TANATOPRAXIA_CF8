@@ -80,7 +80,7 @@ export default {
   },
   referencias: [
     {
-      referencia: 'Braunstein, M. (2017). Todo sobre la técnica del color.',
+      referencia: 'Braunstein, M. (2017). Todo sobre la técnica del color. ',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_elibro_books_ELB123958',
     },
@@ -90,18 +90,18 @@ export default {
     },
     {
       referencia:
-        'Mego, G. (2016). Tanatopraxia y tanatoestética. Todo un arte de conservar y embellecer al cadáver. Morfolia – Vol. 8 - No. 2 – 2016.',
+        'Mego, G. (2016). Tanatopraxia y tanatoestética. Todo un arte de conservar y embellecer al cadáver. Morfolia - Vol. 8 - No. 2 - 2016. ',
       link:
         'https://repositorio.unal.edu.co/bitstream/handle/unal/67117/60112-305939-1-PB.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Pope, N. (2011). Cuidado del cabello y peinados: creaciones, técnicas, material.  ',
+        'Pope, N. (2011). Cuidado del cabello y peinados: creaciones, técnicas, material. ',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000067531',
     },
     {
-      referencia: 'Sierra Acosta, M. (2014). Maquillaje.',
+      referencia: 'Sierra Acosta, M. (2014). Maquillaje. ',
       link:
         'https://www-alphaeditorialcloud-com.bdigital.sena.edu.co/reader/maquillaje?location=4',
     },
@@ -112,10 +112,10 @@ export default {
       significado: 'Producto químico para aclarar una decoloración de la piel.',
     },
     {
-      termino: 'Amarillento ',
+      termino: 'Amarillento',
       significado: 'De color amarillo, color enfermizo del cutis.',
     },
-    { termino: 'Base', significado: 'Producto cosmético. ' },
+    { termino: 'Base', significado: 'Producto cosmético.' },
     {
       termino: 'Cera',
       significado:
@@ -125,10 +125,10 @@ export default {
       termino: 'Laceración',
       significado: 'Herida caracterizada por el rasgado irregular del tejido.',
     },
-    { termino: 'Perfil ', significado: 'Vista lateral del rostro. ' },
+    { termino: 'Perfil', significado: 'Vista lateral del rostro.' },
     {
       termino: 'Polvo',
-      significado: 'Producto cosmético de diferentes tonalidades. ',
+      significado: 'Producto cosmético de diferentes tonalidades.',
     },
   ],
   complementario: [
@@ -175,7 +175,7 @@ export default {
       {
         nombre: 'Jhacesiz Mary Hincapié Atehortúa',
         cargo:
-          'Instructora (EPC) – Líder Desarrollo Curricular Servicios Personales',
+          'Instructora (EPC) - Líder Desarrollo Curricular Servicios Personales',
         centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {

@@ -74,7 +74,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-10
             h3(align='left') En la actualidad
-            p(align='left') En la actualidad, la tanatoestética ha sido incididas por prácticas artísticas tales como el manejo de ceras y técnicas de maquillaje. Cabe mencionar, que la tanatoestética no sólo se limita a los procedimientos que se realizan en el rostro, cuello y manos. Esta abarca reconstrucciones dérmicas, de miembros o estructuras óseas. Es decir, una tanatoestética mixta.
+            p(align='left') En la actualidad, la tanatoestética ha sido incididas por prácticas artísticas tales como el manejo de ceras y técnicas de maquillaje. Cabe mencionar, que la tanatoestética no solo se limita a los procedimientos que se realizan en el rostro, cuello y manos. Esta abarca reconstrucciones dérmicas, de miembros o estructuras óseas. Es decir, una tanatoestética mixta.
           .col-lg-2(data-aos="flip-right")
             figure.mw115px.mx-auto
               img(src='@/assets/curso/t1/f7.svg' alt='Icono faraón')

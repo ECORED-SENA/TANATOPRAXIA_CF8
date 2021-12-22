@@ -96,7 +96,7 @@
                 img.mx-auto(src='@/assets/curso/t2/f9.svg' alt='icono relacionado' style='width:125px;')
               .tarjeta.tarjeta-white
                 .p-4.ps-0
-                  p.mb-3 Lavar el cabello antes y después de la preservación. Se recomienda el uso de champú germicida y/o de uso comercial para perfumarlo.  En caso que el cabello tenga piojos o  gusanos deben ser controlados con productos dados en la desinfección.
+                  p.mb-3 Lavar el cabello antes y después de la preservación. Se recomienda el uso de champú germicida y/o de uso comercial para perfumarlo.  En caso de que el cabello tenga piojos o  gusanos deben ser controlados con productos dados en la desinfección.
             p En la limpieza se hará énfasis en los lugares que se verán expuestos en velación como rostro, cuello y manos-uñas, estas últimas deben tratarse con cuidado. 
             p Finalmente, cuando un cabello sea extenso procure desenredar y secar muy bien el cabello, en los cuerpos se pueden percibir ciertas pistas a qué lado se peinaba la persona en vida.
           .p-4(numero="3" titulo="Tintes arteriales")
@@ -158,7 +158,7 @@
             .tarjeta.tarjeta-white
               .p-4.ps-0
                 h3 Gases en los tejidos
-                p.mb-3 Controlar desde la preservación arterial con solución concentrada y si se desprende la piel cauterizar la zona con pegamento .   
+                p.mb-3 Controlar desde la preservación arterial con solución concentrada y si se desprende la piel cauterizar la zona con pegamento.   
           .tarjeta-avatar-b.mb-4
             .tarjeta-avatar-b__img
               img.mx-auto(src='@/assets/curso/t2/f14.svg' alt='icono relacionado' style='width:125px;')
@@ -236,7 +236,7 @@
           li 
             .lista-ol--cuadro__vineta.fcp
               span 7
-            p.mb-0 Aplicar polvo sellante traslucido.
+            p.mb-0 Aplicar polvo sellante traslúcido.
           li 
             .lista-ol--cuadro__vineta.fcp
               span 8
